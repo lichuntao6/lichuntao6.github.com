@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Suspendisse pellentesque
-date: 2015-02-06T14:37:44.000Z
-categories: update
+title: 客户经理简介
+date: 2015-02-06 14:37:00
+categories:
+  - update
 ---
 
 <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">李春涛</font></font>
