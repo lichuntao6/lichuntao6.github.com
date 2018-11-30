@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: 客户经理简介
 date: 2015-02-06 14:37:00
 categories:
