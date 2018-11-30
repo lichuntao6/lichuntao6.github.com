@@ -1,12 +1,12 @@
 ---
-layout: post
+layout: default
 title: 客户经理简介
 date: 2015-02-06 14:37:00
 categories:
   - update
 ---
 
-##### &nbsp;
+#####  
 
 <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">李春涛</font></font>
 
@@ -23,5 +23,3 @@ categories:
 地址：深圳市福田区深南大道7028号时代科技大厦22层、深圳市宝安中心区海秀路2021号荣超滨海大厦B座1509
 
 毕业于清华大学生物医学工程专业，硕士研究生学历。
-
-&nbsp;
