@@ -1,6 +1,7 @@
 ---
 layout: post
-title: test post
+title: 测试博客
 categories:
 date:
 ---
+
